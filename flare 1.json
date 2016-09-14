@@ -2,31 +2,31 @@
  "name": "Faults",
  "children": [
   {
-   "name": "B",
+   "name": "VAV Faults",
    "children": [
     {
-     "name": "cluster",
+     "name": "VAV-Fault1",
      "children": [
-      {"name": "AgglomerativeCluster", "size": 3938},
-      {"name": "CommunityStructure", "size": 3812},
-      {"name": "HierarchicalCluster", "size": 6714},
-      {"name": "MergeEdge", "size": 743}
+      {"name": "Science Building", "size": 3938},
+      {"name": "Welcome Center", "size": 3812},
+      {"name": "Dorm1", "size": 6714},
+      {"name": "Davis Hall", "size": 743}
      ]
     },
     {
-     "name": "graph",
+     "name": "VAV-Fault2",
      "children": [
-      {"name": "BetweennessCentrality", "size": 3534},
-      {"name": "LinkDistance", "size": 5731},
-      {"name": "MaxFlowMinCut", "size": 7840},
-      {"name": "ShortestPaths", "size": 5914},
-      {"name": "SpanningTree", "size": 3416}
+      {"name": "Science Building", "size": 3534},
+      {"name": "Dorm3", "size": 5731},
+      {"name": "Davis Hall", "size": 7840},
+      {"name": "Engineering Building", "size": 5914},
+      {"name": "Capen Library", "size": 3416}
      ]
     },
     {
-     "name": "optimization",
+     "name": "VAV-Fault3",
      "children": [
-      {"name": "AspectRatioBanker", "size": 7074}
+      {"name": "Lockwood Library", "size": 7074}
      ]
     }
    ]
