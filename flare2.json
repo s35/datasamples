@@ -2,19 +2,19 @@
  "name": "Faults",
  "children": [
   {
-   "name": "VAV Faults",
+   "name": "Stokes Hall",
    "children": [
     {
-     "name": "VAV-Fault1",
+     "name": "Monday",
      "children": [
-      {"name": "Science Building", "size": 3938},
-      {"name": "Welcome Center", "size": 3812},
-      {"name": "Dorm1", "size": 6714},
-      {"name": "Davis Hall", "size": 743}
+      {"name": "Floor-1", "size": 3938},
+      {"name": "Floor-2", "size": 3812},
+      {"name": "Floor-3", "size": 6714},
+      {"name": "Floor-4", "size": 743}
      ]
     },
     {
-     "name": "VAV-Fault2",
+     "name": "Tuesday",
      "children": [
       {"name": "Science Building", "size": 3534},
       {"name": "Dorm3", "size": 5731},
@@ -24,7 +24,7 @@
      ]
     },
     {
-     "name": "VAV-Fault3",
+     "name": "Wednesday",
      "children": [
       {"name": "Lockwood Library", "size": 7074}
      ]
