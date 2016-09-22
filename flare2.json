@@ -28,6 +28,16 @@
      "children": [
       {"name": "Lockwood Library", "size": 7074}
      ]
+    },
+    {
+      "name": "Thursday",
+     "children": [
+      {"name": "Science Building", "size": 3534},
+      {"name": "Dorm3", "size": 5731},
+      {"name": "Davis Hall", "size": 7840},
+      {"name": "Engineering Building", "size": 5914},
+      {"name": "Capen Library", "size": 3416}
+     ]
     }
    ]
   },
