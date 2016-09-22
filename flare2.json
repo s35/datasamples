@@ -16,27 +16,37 @@
     {
      "name": "Tuesday",
      "children": [
-      {"name": "Science Building", "size": 3534},
-      {"name": "Dorm3", "size": 5731},
-      {"name": "Davis Hall", "size": 7840},
-      {"name": "Engineering Building", "size": 5914},
-      {"name": "Capen Library", "size": 3416}
+            {"name": "Floor-1", "size": 3938},
+      {"name": "Floor-2", "size": 3812},
+      {"name": "Floor-3", "size": 6714},
+      {"name": "Floor-4", "size": 743}
      ]
     },
     {
      "name": "Wednesday",
      "children": [
-      {"name": "Lockwood Library", "size": 7074}
+            {"name": "Floor-1", "size": 3938},
+      {"name": "Floor-2", "size": 3812},
+      {"name": "Floor-3", "size": 6714},
+      {"name": "Floor-4", "size": 743}
      ]
     },
     {
       "name": "Thursday",
      "children": [
-      {"name": "Science Building", "size": 3534},
-      {"name": "Dorm3", "size": 5731},
-      {"name": "Davis Hall", "size": 7840},
-      {"name": "Engineering Building", "size": 5914},
-      {"name": "Capen Library", "size": 3416}
+            {"name": "Floor-1", "size": 3938},
+      {"name": "Floor-2", "size": 3812},
+      {"name": "Floor-3", "size": 6714},
+      {"name": "Floor-4", "size": 743}
+     ]
+    },
+    {
+      "name": "Friday",
+     "children": [
+            {"name": "Floor-1", "size": 3938},
+      {"name": "Floor-2", "size": 3812},
+      {"name": "Floor-3", "size": 6714},
+      {"name": "Floor-4", "size": 743}
      ]
     }
    ]
