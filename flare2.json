@@ -478,7 +478,415 @@
    ]
   },
   {
-       "name": "Delvin Hall",
+       "name": "Delvin Hall7",
+   "children": [
+    {
+     "name": "Monday",
+     "children": [
+      {"name": "Floor-1", "size": 3938},
+      {"name": "Floor-2", "size": 4542},
+      {"name": "Floor-3", "size": 4714},
+      {"name": "Floor-4", "size": 7003}
+     ]
+    },
+    {
+     "name": "Tuesday",
+     "children": [
+            {"name": "Floor-1", "size": 1936},
+      {"name": "Floor-2", "size": 3612},
+      {"name": "Floor-3", "size": 5414},
+      {"name": "Floor-4", "size": 3243}
+     ]
+    },
+    {
+     "name": "Wednesday",
+     "children": [
+            {"name": "Floor-1", "size": 2938},
+      {"name": "Floor-2", "size": 3872},
+      {"name": "Floor-3", "size": 6724},
+      {"name": "Floor-4", "size": 4343}
+     ]
+    },
+    {
+      "name": "Thursday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 1822},
+      {"name": "Floor-3", "size": 4734},
+      {"name": "Floor-4", "size": 7643}
+     ]
+    },
+    {
+      "name": "Friday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 3812},
+      {"name": "Floor-3", "size": 6714},
+      {"name": "Floor-4", "size": 7483}
+     ]
+    },
+    {
+      "name": "Saturday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 1812},
+      {"name": "Floor-3", "size": 1714},
+      {"name": "Floor-4", "size": 1483}
+     ]
+    },
+    {
+            "name": "Sunday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 2812},
+      {"name": "Floor-3", "size": 1714},
+      {"name": "Floor-4", "size": 1483}
+     ]
+    }
+   ]
+  },
+  {
+    "name": "Delvin Hall6",
+   "children": [
+    {
+     "name": "Monday",
+     "children": [
+      {"name": "Floor-1", "size": 3938},
+      {"name": "Floor-2", "size": 4542},
+      {"name": "Floor-3", "size": 4714},
+      {"name": "Floor-4", "size": 7003}
+     ]
+    },
+    {
+     "name": "Tuesday",
+     "children": [
+            {"name": "Floor-1", "size": 1936},
+      {"name": "Floor-2", "size": 3612},
+      {"name": "Floor-3", "size": 5414},
+      {"name": "Floor-4", "size": 3243}
+     ]
+    },
+    {
+     "name": "Wednesday",
+     "children": [
+            {"name": "Floor-1", "size": 2938},
+      {"name": "Floor-2", "size": 3872},
+      {"name": "Floor-3", "size": 6724},
+      {"name": "Floor-4", "size": 4343}
+     ]
+    },
+    {
+      "name": "Thursday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 1822},
+      {"name": "Floor-3", "size": 4734},
+      {"name": "Floor-4", "size": 7643}
+     ]
+    },
+    {
+      "name": "Friday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 3812},
+      {"name": "Floor-3", "size": 6714},
+      {"name": "Floor-4", "size": 7483}
+     ]
+    },
+    {
+      "name": "Saturday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 1812},
+      {"name": "Floor-3", "size": 1714},
+      {"name": "Floor-4", "size": 1483}
+     ]
+    },
+    {
+            "name": "Sunday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 2812},
+      {"name": "Floor-3", "size": 1714},
+      {"name": "Floor-4", "size": 1483}
+     ]
+    }
+   ]
+  },
+  {
+    "name": "Delvin Hall5",
+   "children": [
+    {
+     "name": "Monday",
+     "children": [
+      {"name": "Floor-1", "size": 3938},
+      {"name": "Floor-2", "size": 4542},
+      {"name": "Floor-3", "size": 4714},
+      {"name": "Floor-4", "size": 7003}
+     ]
+    },
+    {
+     "name": "Tuesday",
+     "children": [
+            {"name": "Floor-1", "size": 1936},
+      {"name": "Floor-2", "size": 3612},
+      {"name": "Floor-3", "size": 5414},
+      {"name": "Floor-4", "size": 3243}
+     ]
+    },
+    {
+     "name": "Wednesday",
+     "children": [
+            {"name": "Floor-1", "size": 2938},
+      {"name": "Floor-2", "size": 3872},
+      {"name": "Floor-3", "size": 6724},
+      {"name": "Floor-4", "size": 4343}
+     ]
+    },
+    {
+      "name": "Thursday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 1822},
+      {"name": "Floor-3", "size": 4734},
+      {"name": "Floor-4", "size": 7643}
+     ]
+    },
+    {
+      "name": "Friday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 3812},
+      {"name": "Floor-3", "size": 6714},
+      {"name": "Floor-4", "size": 7483}
+     ]
+    },
+    {
+      "name": "Saturday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 1812},
+      {"name": "Floor-3", "size": 1714},
+      {"name": "Floor-4", "size": 1483}
+     ]
+    },
+    {
+            "name": "Sunday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 2812},
+      {"name": "Floor-3", "size": 1714},
+      {"name": "Floor-4", "size": 1483}
+     ]
+    }
+   ]
+  },
+  {
+    "name": "Delvin Hall4",
+   "children": [
+    {
+     "name": "Monday",
+     "children": [
+      {"name": "Floor-1", "size": 3938},
+      {"name": "Floor-2", "size": 4542},
+      {"name": "Floor-3", "size": 4714},
+      {"name": "Floor-4", "size": 7003}
+     ]
+    },
+    {
+     "name": "Tuesday",
+     "children": [
+            {"name": "Floor-1", "size": 1936},
+      {"name": "Floor-2", "size": 3612},
+      {"name": "Floor-3", "size": 5414},
+      {"name": "Floor-4", "size": 3243}
+     ]
+    },
+    {
+     "name": "Wednesday",
+     "children": [
+            {"name": "Floor-1", "size": 2938},
+      {"name": "Floor-2", "size": 3872},
+      {"name": "Floor-3", "size": 6724},
+      {"name": "Floor-4", "size": 4343}
+     ]
+    },
+    {
+      "name": "Thursday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 1822},
+      {"name": "Floor-3", "size": 4734},
+      {"name": "Floor-4", "size": 7643}
+     ]
+    },
+    {
+      "name": "Friday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 3812},
+      {"name": "Floor-3", "size": 6714},
+      {"name": "Floor-4", "size": 7483}
+     ]
+    },
+    {
+      "name": "Saturday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 1812},
+      {"name": "Floor-3", "size": 1714},
+      {"name": "Floor-4", "size": 1483}
+     ]
+    },
+    {
+            "name": "Sunday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 2812},
+      {"name": "Floor-3", "size": 1714},
+      {"name": "Floor-4", "size": 1483}
+     ]
+    }
+   ]
+  },
+  {
+    "name": "Delvin Hall3",
+   "children": [
+    {
+     "name": "Monday",
+     "children": [
+      {"name": "Floor-1", "size": 3938},
+      {"name": "Floor-2", "size": 4542},
+      {"name": "Floor-3", "size": 4714},
+      {"name": "Floor-4", "size": 7003}
+     ]
+    },
+    {
+     "name": "Tuesday",
+     "children": [
+            {"name": "Floor-1", "size": 1936},
+      {"name": "Floor-2", "size": 3612},
+      {"name": "Floor-3", "size": 5414},
+      {"name": "Floor-4", "size": 3243}
+     ]
+    },
+    {
+     "name": "Wednesday",
+     "children": [
+            {"name": "Floor-1", "size": 2938},
+      {"name": "Floor-2", "size": 3872},
+      {"name": "Floor-3", "size": 6724},
+      {"name": "Floor-4", "size": 4343}
+     ]
+    },
+    {
+      "name": "Thursday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 1822},
+      {"name": "Floor-3", "size": 4734},
+      {"name": "Floor-4", "size": 7643}
+     ]
+    },
+    {
+      "name": "Friday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 3812},
+      {"name": "Floor-3", "size": 6714},
+      {"name": "Floor-4", "size": 7483}
+     ]
+    },
+    {
+      "name": "Saturday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 1812},
+      {"name": "Floor-3", "size": 1714},
+      {"name": "Floor-4", "size": 1483}
+     ]
+    },
+    {
+            "name": "Sunday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 2812},
+      {"name": "Floor-3", "size": 1714},
+      {"name": "Floor-4", "size": 1483}
+     ]
+    }
+   ]
+  },
+  {
+    "name": "Delvin Hall2",
+   "children": [
+    {
+     "name": "Monday",
+     "children": [
+      {"name": "Floor-1", "size": 3938},
+      {"name": "Floor-2", "size": 4542},
+      {"name": "Floor-3", "size": 4714},
+      {"name": "Floor-4", "size": 7003}
+     ]
+    },
+    {
+     "name": "Tuesday",
+     "children": [
+            {"name": "Floor-1", "size": 1936},
+      {"name": "Floor-2", "size": 3612},
+      {"name": "Floor-3", "size": 5414},
+      {"name": "Floor-4", "size": 3243}
+     ]
+    },
+    {
+     "name": "Wednesday",
+     "children": [
+            {"name": "Floor-1", "size": 2938},
+      {"name": "Floor-2", "size": 3872},
+      {"name": "Floor-3", "size": 6724},
+      {"name": "Floor-4", "size": 4343}
+     ]
+    },
+    {
+      "name": "Thursday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 1822},
+      {"name": "Floor-3", "size": 4734},
+      {"name": "Floor-4", "size": 7643}
+     ]
+    },
+    {
+      "name": "Friday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 3812},
+      {"name": "Floor-3", "size": 6714},
+      {"name": "Floor-4", "size": 7483}
+     ]
+    },
+    {
+      "name": "Saturday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 1812},
+      {"name": "Floor-3", "size": 1714},
+      {"name": "Floor-4", "size": 1483}
+     ]
+    },
+    {
+            "name": "Sunday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 2812},
+      {"name": "Floor-3", "size": 1714},
+      {"name": "Floor-4", "size": 1483}
+     ]
+    }
+   ]
+  },
+  {
+    "name": "Delvin Hall1",
    "children": [
     {
      "name": "Monday",
