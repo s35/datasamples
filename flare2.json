@@ -952,6 +952,142 @@
      ]
     }
    ]
+  },
+   {
+   "name": "Bookstore2",
+   "children": [
+    {
+     "name": "Monday",
+     "children": [
+      {"name": "Floor-1", "size": 1948},
+      {"name": "Floor-2", "size": 2542},
+      {"name": "Floor-3", "size": 2514},
+      {"name": "Floor-4", "size": 3003}
+     ]
+    },
+    {
+     "name": "Tuesday",
+     "children": [
+            {"name": "Floor-1", "size": 1936},
+      {"name": "Floor-2", "size": 3612},
+      {"name": "Floor-3", "size": 7414},
+      {"name": "Floor-4", "size": 7243}
+     ]
+    },
+    {
+     "name": "Wednesday",
+     "children": [
+            {"name": "Floor-1", "size": 2938},
+      {"name": "Floor-2", "size": 3872},
+      {"name": "Floor-3", "size": 3724},
+      {"name": "Floor-4", "size": 1343}
+     ]
+    },
+    {
+      "name": "Thursday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 2822},
+      {"name": "Floor-3", "size": 1734},
+      {"name": "Floor-4", "size": 3643}
+     ]
+    },
+    {
+      "name": "Friday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 3812},
+      {"name": "Floor-3", "size": 6714},
+      {"name": "Floor-4", "size": 7483}
+     ]
+    },
+    {
+      "name": "Saturday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 1812},
+      {"name": "Floor-3", "size": 1714},
+      {"name": "Floor-4", "size": 1483}
+     ]
+    },
+    {
+            "name": "Sunday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 2812},
+      {"name": "Floor-3", "size": 1714},
+      {"name": "Floor-4", "size": 1483}
+     ]
+    }
+   ]
+  },
+   {
+   "name": "Bookstore1",
+   "children": [
+    {
+     "name": "Monday",
+     "children": [
+      {"name": "Floor-1", "size": 1948},
+      {"name": "Floor-2", "size": 2542},
+      {"name": "Floor-3", "size": 2514},
+      {"name": "Floor-4", "size": 3003}
+     ]
+    },
+    {
+     "name": "Tuesday",
+     "children": [
+            {"name": "Floor-1", "size": 1936},
+      {"name": "Floor-2", "size": 3612},
+      {"name": "Floor-3", "size": 7414},
+      {"name": "Floor-4", "size": 7243}
+     ]
+    },
+    {
+     "name": "Wednesday",
+     "children": [
+            {"name": "Floor-1", "size": 2938},
+      {"name": "Floor-2", "size": 3872},
+      {"name": "Floor-3", "size": 3724},
+      {"name": "Floor-4", "size": 1343}
+     ]
+    },
+    {
+      "name": "Thursday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 2822},
+      {"name": "Floor-3", "size": 1734},
+      {"name": "Floor-4", "size": 3643}
+     ]
+    },
+    {
+      "name": "Friday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 3812},
+      {"name": "Floor-3", "size": 6714},
+      {"name": "Floor-4", "size": 7483}
+     ]
+    },
+    {
+      "name": "Saturday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 1812},
+      {"name": "Floor-3", "size": 1714},
+      {"name": "Floor-4", "size": 1483}
+     ]
+    },
+    {
+            "name": "Sunday",
+     "children": [
+            {"name": "Floor-1", "size": 1938},
+      {"name": "Floor-2", "size": 2812},
+      {"name": "Floor-3", "size": 1714},
+      {"name": "Floor-4", "size": 1483}
+     ]
+    }
+   ]
   }
 ]
 }
