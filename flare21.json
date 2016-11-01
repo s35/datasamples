@@ -2,7 +2,7 @@
  "name": "Portfolio",
  "children": [
   {
-   "name": "Stokes Hall",
+   "name": "Building A",
    "children": [
     {
      "name": "Monday",
@@ -70,7 +70,7 @@
    ]
   },
    {
-   "name": "Bookstore",
+   "name": "Building B",
    "children": [
     {
      "name": "Monday",
@@ -138,7 +138,7 @@
    ]
   },
   {
-   "name": "School of Social Work",
+   "name": "Building C",
    "children": [
     {
      "name": "Monday",
